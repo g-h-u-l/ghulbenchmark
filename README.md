@@ -7,11 +7,13 @@
 ![Language](https://img.shields.io/badge/Language-Bash%20%7C%20POSIX-005f91)
 ![Best on AMD](https://img.shields.io/badge/Best%20Experience-AMDGPU-ea1d22?logo=amd&logoColor=white)
 ![CPU](https://img.shields.io/badge/CPU-7zip%20%7C%20sysbench%20%7C%20stress--ng-blueviolet)
+![GPU](https://img.shields.io/badge/Graphics-Vulkan%20%7C%20OpenGL-6a1bb3
 ![RAM](https://img.shields.io/badge/RAM-mbw-lightgrey)
 ![Network](https://img.shields.io/badge/Network-iperf3-5b5b5b)
 ![JSON](https://img.shields.io/badge/Output-JSON-orange?logo=json&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-GPLv3-blue?logo=gnu&logoColor=white)
-![Optimized For](https://img.shields.io/badge/Optimized%20for-AMD%20GPUs-be2e2e?logo=amd&logoColor=white)
+![CPU](https://img.shields.io/badge/CPU-7zip%20%7C%20sysbench%20%7C%20stress--ng-blueviolet)
+![Best on AMD](https://img.shields.io/badge/Best%20Experience-AMDGPU-ea1d22?logo=amd&logoColor=white)
 ![Purpose](https://img.shields.io/badge/Gaming-Linux%20Benchmarking-8a2be2)
 
 **GHULbenchmarkmark** is a Linux-native benchmark suite for real-world gaming rigs.  
