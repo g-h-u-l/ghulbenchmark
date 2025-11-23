@@ -1,4 +1,5 @@
-# GHULbenchmarkmark – Gaming Hardware Using Linux Benchmark Suite
+# GHULbenchmarkmark
+## Gaming Hardware Using Linux Benchmark Suite
 <p align="center">
   <img src=".github/assets/GHULbenchmark.png" width="256" alt="GHULbenchmark Logo">
 </p>
