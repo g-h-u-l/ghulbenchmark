@@ -1,4 +1,7 @@
 # GHULbenchmarkmark – Gaming Hardware Using Linux Benchmark Suite
+<p align="center">
+  <img src=".github/assets/GHULbenchmark.png" width="256" alt="GHULbenchmark Logo">
+</p>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-111?logo=linux&logoColor=white)
 ![Arch Based](https://img.shields.io/badge/Distro-Arch%20Based-0f94d2?logo=arch-linux&logoColor=white)
